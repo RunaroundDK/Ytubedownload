@@ -27,8 +27,16 @@ python main.py -t <file.txt>
 ```
 
 ## Release History
+* 0.1.1
+    * Added txt download option 
+    * Fixed Bug 
 * 0.1.0
     * added -d option
     * uploaded file to github
 * 0.0.1
     * Work in progress
+
+## Sources
+https://docs.python.org/3/howto/argparse.html
+https://www.journaldev.com/16140/python-system-command-os-subprocess-call#python-ossystem-function
+https://www.slashgeek.net/2016/06/24/5-youtube-dl-tips-might-not-know/
